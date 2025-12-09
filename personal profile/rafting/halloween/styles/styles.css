@@ -1,0 +1,39 @@
+/* Add your CSS here to style your halloween page */
+body {
+    background-color: gray;
+}
+nav {
+    text-align: center;
+}
+ul {
+    text-align: center;
+}
+header nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    position: relative;
+    top: 750px;
+    font-size: x-large;
+    color: red;
+}
+main {
+    text-align: center;
+    border: 10px solid black;
+    color: orange;
+    background-image: url("../images/angel-of-death.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+
+}
+main section {
+    text-align: center;
+    font-size: x-large;
+}
